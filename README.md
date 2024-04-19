@@ -5,7 +5,7 @@ CVPR 2024 decisions are now available on OpenReview！
 
 > 注1：欢迎各位大佬提交issue，分享CVPR 2024论文和开源项目！
 >
-> 注2：关于往年CV顶会论文以及其他优质CV论文和大盘点，详见： https://github.com/amusi/daily-paper-computer-vision
+
 >
 > - [CVPR 2019](CVPR2019-Papers-with-Code.md)
 > - [CVPR 2020](CVPR2020-Papers-with-Code.md)
@@ -13,9 +13,9 @@ CVPR 2024 decisions are now available on OpenReview！
 > - [CVPR 2022](CVPR2022-Papers-with-Code.md)
 > - [CVPR 2023](CVPR2022-Papers-with-Code.md)
 
-欢迎扫码加入【CVer学术交流群】，这是最大的计算机视觉AI知识星球！每日更新，第一时间分享最新最前沿的计算机视觉、AI绘画、图像处理、深度学习、自动驾驶、医疗影像和AIGC等方向的学习资料，学起来！
+欢迎扫码加入[思维桥学术交流]
 
-![](CVer学术交流群.png)
+![](z.png)
 
 # 【CVPR 2024 论文开源目录】
 
